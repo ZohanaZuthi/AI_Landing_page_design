@@ -6,7 +6,7 @@ export default function layout() {
   return (
     <>
       <Navbar />
-      <main className="w-full h-screen mx-auto bg-black">
+      <main className="w-full min-h-screen mx-auto bg-black">
         <Outlet />
         
       </main>
