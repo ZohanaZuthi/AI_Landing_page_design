@@ -1,6 +1,7 @@
 import Hero from "./Hero"
 import CTA from "./CTA"
 import FAQ from "./FAQ"
+import Pricing from "./Pricing"
 
 export default function Home()
 {
@@ -8,8 +9,8 @@ export default function Home()
         <>
         <Hero/>
         {/* <Stats/>
-        <Features/>
-        <Pricing/> */}
+        <Features/> */}
+        <Pricing/>
         <FAQ/>
         <CTA/>
 
