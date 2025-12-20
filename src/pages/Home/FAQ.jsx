@@ -9,7 +9,11 @@ export default function FAQ (){
         <p className="text-gray-300 mb-6 text-center">Got questions? We've got answers. Find everything you need to know about using our platform, plans, and features.</p>
 
         
-        <Accordion/>
+        <Accordion title='What is this platform used for?' answer='It’s an AI-powered design assistant that helps you generate, customize, and export creative assets in seconds—whether for personal projects, brand work, or commercial use.'/>
+        <Accordion title='What happens if I hit my free generation limit?' answer=''/>
+        <Accordion title='Do I need design experience to use it?' answer=''/>
+        <Accordion title='Can I collaborate with my team?' answer=''/>
+        <Accordion title='Is it really free to use?' answer=''/>
         </div>
 
     </div>
