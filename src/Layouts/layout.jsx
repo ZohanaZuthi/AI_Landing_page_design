@@ -10,7 +10,7 @@ export default function layout() {
         <Outlet />
         
       </main>
-      <Footer></Footer>
-    </>
+      <Footer />
+   </>
   );
 }
